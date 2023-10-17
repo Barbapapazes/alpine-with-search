@@ -1,8 +1,6 @@
 {
-    "extends": [
-      "@nuxtjs"
-    ],
-    "lockFileMaintenance": {
-      "enabled": true
-    }
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>Barbapapazes/renovate-config"
+  ]
 }

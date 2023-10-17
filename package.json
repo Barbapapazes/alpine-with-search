@@ -1,15 +1,20 @@
 {
   "name": "alpine-starter",
+  "type": "module",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
     "generate": "nuxi generate",
-    "preview": "nuxi preview"
+    "preview": "nuxi preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "nuxt": "3.3.3",
-    "@nuxt-themes/alpine": "^1.5.3"
+    "@antfu/eslint-config": "1.0.0-beta.27",
+    "@nuxt-themes/alpine": "^1.5.3",
+    "eslint": "^8.51.0",
+    "nuxt": "3.3.3"
   }
 }

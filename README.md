@@ -1,14 +1,8 @@
-# Alpine Starter
+# Alpine with a search
 
-Starter template for [Alpine](https://alpine.nuxt.space).
+Like [Alpine](https://github.com/nuxt-themes/alpine) but **with a search** (and that make a big difference) 🪄.
 
-## Clone
-
-Clone the repository (using `nuxi`):
-
-```bash
-npx nuxi init -t themes/alpine
-```
+Try it out: [alpine-with-search.esteban-soubiran.site](https://alpine-with-search.esteban-soubiran.site/)
 
 ## Setup
 
@@ -28,7 +22,7 @@ pnpm dev
 
 Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
 
-Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
+Look at all [the available presets](https://nuxt.com/guide/deploy/presets).
 
 ```bash
 pnpm build
@@ -51,7 +45,3 @@ You might want to preview the result of your build locally, to do so, run the fo
 ```bash
 pnpm preview
 ```
-
----
-
-For a detailed explanation of how things work, check out [Alpine](https://alpine.nuxt.space).
