@@ -15,7 +15,7 @@
     "minisearch": "^6.1.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "1.0.0-beta.27",
+    "@antfu/eslint-config": "2.3.4",
     "@nuxt-themes/alpine": "^1.6.4",
     "eslint": "^8.51.0",
     "nuxt": "^3.7.4"
