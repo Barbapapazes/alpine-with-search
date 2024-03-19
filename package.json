@@ -18,6 +18,6 @@
     "@antfu/eslint-config": "1.0.0-beta.27",
     "@nuxt-themes/alpine": "^1.6.4",
     "eslint": "^8.51.0",
-    "nuxt": "^3.7.4"
+    "nuxt": "^3.11.1"
   }
 }
